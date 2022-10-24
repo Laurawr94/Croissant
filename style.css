@@ -1,10 +1,37 @@
-<<<<<<< HEAD
 body {
-  background-color: aquamarine;
+  background-color: grey !important;
 }
-=======
->>>>>>> 8814a7cf9e45b687a3597eda48694c767ad25c23
 h1 {
   font-size: 42px;
   text-align: center;
+  color: aquamarine;
+  padding-top: 20px;
+}
+h2 {
+  font-size: 42px;
+  text-align: center;
+  color: aquamarine;
+}
+a {
+  padding: 20px;
+  text-decoration: none !important;
+  color: white !important;
+}
+a:hover {
+  cursor: pointer;
+  color: blue !important;
+}
+.content {
+  text-align: center;
+  color: aliceblue;
+  margin: 0 auto;
+  padding: 40px;
+}
+p {
+  font-size: 20px;
+}
+.images {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  margin-top: 30px !important;
 }
