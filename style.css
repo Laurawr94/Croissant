@@ -1,10 +1,10 @@
 body {
-  background-color: grey !important;
+  background-color: lightblue !important;
 }
 h1 {
   font-size: 42px;
   text-align: center;
-  color: aquamarine;
+  color: lightcoral;
   padding-top: 20px;
 }
 h2 {
